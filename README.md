@@ -1,31 +1,42 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-<h2 align="center">Olá👋, Eu sou Welisson Luca</h2>
+[![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
 
-<h4 align="left">✨ About.</h4>
+<h1 align="center">Hi 👋, I'm Welisson Luca</h1>
+<h3 align="center">Um jovem apaixonado por programação, aspirante a desenvolvedor full stack</h3>
+<img align="center"' src='https://i.pinimg.com/originals/39/49/e0/3949e07fabe83f18ee3785f75484eeea.gif' width='100%' style="margin-bottom: 40px">
 
-- 🎓 Cursando bacharelado em SI, estou em buscar de oportunidade como developer Full Stack JR;
-- 🔭 Atualmente, estou aprimorando meus conhecimentos em JavaScript e Node JS, também estou cursando o bootcamp launchbase 5 da rocketseat e alguns outros cursos focados em JS e Node;
-- 🤝 Estou trabalhando em alguns projetos com foco em praticar meus conhecimentos obtidos até o momento, estes projetos todos serão completos front-end e back-end; 
 
-<h4 align="left">🌐 Connect with me:</h4>
+
+- 🎓 Me chamo welisson luca, sou natural de Belém do Pará, atualmente estou cursando Sistemas de informações pela Estácio, fui aluno da rocketseat pelo bootcamp launchbase .!*;
+- 🌱 Atualmente estou aprendendo **React, Node JS, MongoDB**
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://luca-dev.welissonluca.vercel.app/](https://luca-dev.welissonluca.vercel.app/)
+- 📫 Entre em contato comigo **welissonluca17@gmail.com**
+
+- ⚡ Hobbies **Gosto muito de assistir animes meus meus favoritos são 1° One piece, 2° Hunter X Hunter, 3° Shingeky No Kyoijin, também gosto muito de séries e praticamente qualquer coisa que envolva tecnologia**
+
+## Cursos
+
+- **Sistemas de informações**: Estácio Cursando 2020/2024
+- **Botcamp launchbase**: RocketSeat Cursando
+- **Programador WEB**: IFSUL Concluido 
+
+## ⚡ Tecnologias
+
+- Front-end: **HTML, CSS, Javascript**
+- Back-end: **Node, Express, Knex**
+- Database: **PostgresSQL, MYSQL**
+- Versionamento: **Git**
+- UI Design: **Figma, AdobeXD, Lunacy**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="welisson luca" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/welisson-luca-assun%c3%a7%c3%a2o-vilar-483697189/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613336577~hmac=fc1fc23aa79cd22330204134ddbc948e" alt="https://www.linkedin.com/in/welisson-luca-assun%c3%a7%c3%a2o-vilar-483697189/" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">🛠️ Languages and Tools:</h4>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="css3" width="40" height="40"/></a> 
- <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="JavaScript" width="40" height="40"/></a>
- <a href="https://nodejs.org/en//" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3-1174937.png" alt="Node" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://brasilcloud.com.br/wp-content/uploads/2015/12/mysql.png" alt="mysql" width="40" height="40"/> </a>
-   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/npm.png" alt="npm" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/2x/postgreesql.png" alt="Postgre" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://icons8.com.br/icon/20906/git" alt="git" width="40" height="40"/> </a>  
-    </p>
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&show_icons=true&locale=en&=true&theme=dark" alt="WelissonLuca" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=welissonluca&show_icons=true&locale=en&layout=compact" alt="welissonluca" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=welissonluca&show_icons=true&locale=en" alt="welissonluca" /></p>
 
 
