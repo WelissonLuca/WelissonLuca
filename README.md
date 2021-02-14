@@ -13,7 +13,7 @@
 
 - ⚡ Hobbies **Gosto muito de assistir animes meus meus favoritos são 1° One piece, 2° Hunter X Hunter, 3° Shingeky No Kyoijin, também gosto muito de séries e praticamente qualquer coisa que envolva tecnologia**
 
-## Cursos
+## 👨‍💻 Cursos
 
 - **Sistemas de informações**: Estácio Cursando 2020/2024
 - **Botcamp launchbase**: RocketSeat Cursando
@@ -28,15 +28,12 @@
 - UI Design: **Figma, AdobeXD, Lunacy**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/welisson-luca-assun%c3%a7%c3%a2o-vilar-483697189/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613336577~hmac=fc1fc23aa79cd22330204134ddbc948e" alt="https://www.linkedin.com/in/welisson-luca-assun%c3%a7%c3%a2o-vilar-483697189/" height="30" width="40" /></a>
-</p>
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=welissonluca&show_icons=true&locale=en&layout=compact" alt="welissonluca" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=welissonluca&show_icons=true&locale=en" alt="welissonluca" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=welissonluca&show_icons=true&locale=en&layout=compact" alt="welissonluca" /></p>
 
-
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=welissonluca&show_icons=true&locale=en" alt="welissonluca" /></p>
