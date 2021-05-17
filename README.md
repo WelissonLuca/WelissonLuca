@@ -53,11 +53,25 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### 💻 Feed hackernews
 
-<!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->
+|Index|Posts|Domain|
+|---|---|---|---|
+| 1 | [US investigates second suspected case of mystery 'syndrome' near White House](https://www.cnn.com/2021/05/17/politics/us-investigates-second-case-mystery-syndrome-white-house/index.html)  | [www.cnn.com](https://www.cnn.com) |
+| 2 | [Yoga and Breathing Exercises Aid Children with ADHD to Focus](https://neurosciencenews.com/focus-yoga-adhd-18435/)  | [neurosciencenews.com](https://neurosciencenews.com) |
+| 3 | [Can I get some reasons to use Java instead of Kotlin?](https://www.reddit.com/r/java/comments/ndwz92/can_i_get_some_reasons_to_use_java_instead_of/gyd5yi5/)  | [www.reddit.com](https://www.reddit.com) |
+| 4 | [Our vendor executed a system reboot that caused a shut down of the turnstiles](https://twitter.com/nyctsubway/status/1394258614475497475)  | [twitter.com](https://twitter.com) |
+| 5 | [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)  | [www.apple.com](https://www.apple.com) |
 
-<!--FEED:{"rows": 5, "select": ["hackernews ask", "hackernews show"], "raw": true, "title": true }-->
+### 📋 hackernews show
+ > This is generated from feed provided [here](https://hnrss.org/show). Add it to your rss reader! 
+
+ --- 
+ 1. [Show HN: TooLooDR – concept/tool for writing progressive and flexible content](https://www.tooloodr.com/) ([www.tooloodr.com](https://www.tooloodr.com))
+2. [Show HN: Online Game Emulation Platform – Afterplay.io](https://www.youtube.com/watch?v=3K9iYbJ-1lQ&lc=Ugz3VedTWtxZZbDBHOB4AaABAg) ([www.youtube.com](https://www.youtube.com))
+3. [Show HN: One Keynote – custom podcast feeds for popular tech personalities](https://news.ycombinator.com/item?id=27183367) ([news.ycombinator.com](https://news.ycombinator.com))
+4. [Show HN: Notion Playground – Play with Notion API to ruin a website in real-time](https://series.slice.so/playground) ([series.slice.so](https://series.slice.so))
+5. [Show HN: Find the most competent app-designer/bioengineer/physicist in a country](https://proficience.io/) ([proficience.io](https://proficience.io))
 
 
 ------------
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 2:29:39 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 2:30:31 pm UTC</b>. </p>
 
