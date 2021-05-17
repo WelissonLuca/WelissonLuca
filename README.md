@@ -1,5 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
+
+<img src="https://imgseed.xyz/img/16212290195d1cd9e.gif"> 
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
@@ -15,6 +18,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 I am available for work in the home office mode!
 - 📫 How to reach me: welissonluca17@gmail.com
+- 📝 See my resume by <a  target="blank" href="https://www.canva.com/design/DAEekzRUSOE/9HxYjMwhjXlyLCVIeuEoPg/view?utm_content=DAEekzRUSOE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
 
 <br/>
 
@@ -36,4 +40,3 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
