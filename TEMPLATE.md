@@ -43,6 +43,9 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
 
 ### 🗣 My activity:
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 ```
 <!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
 ```
@@ -51,6 +54,3 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
 
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
