@@ -37,18 +37,18 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&show_icons=true&theme=gotham&layout=compact">
 </a>
 
+### 🗄 My projects:
+
+#### Top
+<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
+
 ### 🗣 My activity:
+```
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
+```
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
-
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+------------
+<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
 
 
 <!--START_SECTION:activity-->
