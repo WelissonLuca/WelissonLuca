@@ -23,6 +23,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         username: WelissonLuca
         template: "TEMPLATE.md"
+        feed: "FEEDS.json"
       
     - name: Commit & Push changes
       uses: actions-js/push@master
