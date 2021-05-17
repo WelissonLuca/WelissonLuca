@@ -36,6 +36,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <a href="https://github.com/Welisson"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&show_icons=true&theme=gotham&layout=compact">
 </a>
+
 ### 🗣 My activity:
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
