@@ -47,10 +47,14 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 <!--END_SECTION:activity-->
 ```
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
+
+### Feed hackernews
+
+<!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->
+
+<!--FEED:{"rows": 5, "select": ["hackernews ask", "hackernews show"], "raw": true, "title": true }-->
 ```
 
 ------------
-<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
-
+<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
 
