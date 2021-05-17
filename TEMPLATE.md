@@ -48,10 +48,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 <details>
-  <sumary> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </sumary>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
 
-![Metrics](https://metrics.lecoq.io/WelissonLuca?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-</details
+![Metrics](https://metrics.lecoq.io/WelissonLuca?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+
+</details>
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
 
