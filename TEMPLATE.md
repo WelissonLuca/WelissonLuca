@@ -43,9 +43,8 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
-<!--END_SECTION:activity-->
 
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
