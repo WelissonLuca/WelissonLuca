@@ -1,4 +1,3 @@
-
 [![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
 
@@ -38,20 +37,23 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&show_icons=true&theme=gotham&layout=compact">
 </a>
 
-### 🗣 My activity:
+### 🗄 My projects:
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+#### Top
+<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
 
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
-
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
-
-
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+
+### 💻 Feed hackernews
+
+<!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->
+
+<!--FEED:{"rows": 5, "select": ["hackernews ask", "hackernews show"], "raw": true, "title": true }-->
+
+
+------------
+<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
