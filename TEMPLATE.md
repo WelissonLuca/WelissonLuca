@@ -47,13 +47,6 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 <!--END_SECTION:activity-->
 
-
-<!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->]
-
-
-<!--FEED:{"rows": 5, "select": ["hackernews ask", "hackernews show"], "raw": true, "title": true }-->
-
-
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
 
