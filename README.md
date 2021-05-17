@@ -42,12 +42,17 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 ### 🗄 My projects:
 
 #### Top
-<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 6 | [WelissonLuca/afrodev-team3](https://github.com/WelissonLuca/afrodev-team3) | Repositório para o AfroDev - Time 3 |
+| 📦 | 2 | [WelissonLuca/BikeCraft](https://github.com/WelissonLuca/BikeCraft) | Projeto do curso Origamid Flexbox |
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -57,4 +62,5 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 4:16:49 pm UTC</b>. </p>
+
