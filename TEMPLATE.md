@@ -45,7 +45,8 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
 
 ### :zap: Recent Activity
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
