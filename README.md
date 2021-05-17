@@ -46,12 +46,10 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 | 📦 | 2 | [WelissonLuca/BikeCraft](https://github.com/WelissonLuca/BikeCraft) | Projeto do curso Origamid Flexbox |
 
 ### :zap: Recent Activity
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ------------
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 3:01:55 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 3:02:30 pm UTC</b>. </p>
 
