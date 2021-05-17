@@ -1,7 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
 
@@ -25,8 +26,14 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <br/>
 
 <br/>
-<a href="https://github.com/ramazansakin">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="WelissonLuca" />
+<a href="https://github.com/WelissonLuca">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&show_icons=true&theme=gotham&&count_private=true" alt="WelissonLuca" />
+</a>
+<a href="https://github.com/Welisson"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&show_icons=true&theme=gotham&layout=compact">
 </a>
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
