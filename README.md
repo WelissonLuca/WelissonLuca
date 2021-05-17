@@ -1,5 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00)
 
 <img src="https://imgseed.xyz/img/16212290195d1cd9e.gif"> 
 
