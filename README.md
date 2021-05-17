@@ -54,6 +54,9 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/WelissonLuca?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
 ------------
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 3:54:44 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 3:57:00 pm UTC</b>. </p>
 
