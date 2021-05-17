@@ -48,9 +48,8 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <!--END_SECTION:activity-->
 
 
-### 💻 Feed hackernews
+<!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->]
 
-<!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->
 
 <!--FEED:{"rows": 5, "select": ["hackernews ask", "hackernews show"], "raw": true, "title": true }-->
 
