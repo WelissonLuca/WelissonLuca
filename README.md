@@ -49,8 +49,8 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+* ⬆️ Pushed 22 commits to WelissonLuca/EveryDay-API
+* 🎉 Merged PR #4 in WelissonLuca/EveryDay-API
 * ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 * ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 * ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
@@ -63,5 +63,5 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, May 18th 2021, 1:12:45 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Tuesday, May 18th 2021, 2:51:48 am UTC</b>. </p>
 
