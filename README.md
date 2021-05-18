@@ -51,9 +51,9 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 * ⬆️ Pushed 1 commit to WelissonLuca/GAME_API
 * ⬆️ Pushed 1 commit to WelissonLuca/GAME_API
-* 💪 Opened PR #5 in WelissonLuca/GAME_API
-* ⬆️ Pushed 2 commits to WelissonLuca/GAME_API
 * ⬆️ Pushed 1 commit to WelissonLuca/GAME_API
+* ⬆️ Pushed 1 commit to WelissonLuca/GAME_API
+* 💪 Opened PR #5 in WelissonLuca/GAME_API
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -63,5 +63,5 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, May 18th 2021, 1:32:45 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Tuesday, May 18th 2021, 2:21:57 pm UTC</b>. </p>
 
