@@ -52,8 +52,8 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 * ⬆️ Pushed 1 commit to WelissonLuca/ClubHouse-clone
 * ⬆️ Pushed 2 commits to WelissonLuca/ClubHouse-clone
 * ⬆️ Pushed 1 commit to WelissonLuca/ClubHouse-clone
-* ⬆️ Pushed 7 commits to WelissonLuca/ClubHouse-clone
-* ⬆️ Pushed 1 commit to WelissonLuca/eccomerce-challange
+* ⬆️ Pushed 1 commit to WelissonLuca/ClubHouse-clone
+* ⬆️ Pushed 1 commit to WelissonLuca/ClubHouse-clone
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -63,5 +63,5 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Friday, May 21st 2021, 3:25:33 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Friday, May 21st 2021, 4:43:35 pm UTC</b>. </p>
 
