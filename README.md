@@ -49,10 +49,10 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* 🎉 Merged PR #1 in WelissonLuca/WelissonLuca
+* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+* 💪 Opened PR #1 in WelissonLuca/WelissonLuca
 * ⬆️ Pushed 1 commit to WelissonLuca/GamaXP37
-* ⬆️ Pushed 1 commit to WelissonLuca/ClubHouse-clone
-* ⬆️ Pushed 2 commits to WelissonLuca/ClubHouse-clone
-* ⬆️ Pushed 1 commit to WelissonLuca/ClubHouse-clone
 * ⬆️ Pushed 1 commit to WelissonLuca/ClubHouse-clone
 
 <details>
@@ -63,5 +63,5 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Saturday, May 22nd 2021, 8:23:52 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Saturday, May 22nd 2021, 8:49:41 pm UTC</b>. </p>
 
