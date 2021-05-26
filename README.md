@@ -51,9 +51,9 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 * ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
 * ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
-* ⬆️ Pushed 3 commits to WelissonLuca/ClubHouse-clone
-* 🎉 Merged PR #1 in WelissonLuca/WelissonLuca
-* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+* ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
+* ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
+* ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -63,5 +63,5 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, May 26th 2021, 11:30:55 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Wednesday, May 26th 2021, 12:39:27 pm UTC</b>. </p>
 
