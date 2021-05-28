@@ -58,5 +58,4 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
 
-![Snake animation](https://github.com/WelissonLuca/WelissonLuca/blob/output/github-contribution-grid-snake.svg)
 
