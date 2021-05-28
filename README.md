@@ -65,3 +65,6 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 ------------
 <p align="center">Last refresh: <b>Friday, May 28th 2021, 4:05:36 pm UTC</b>. </p>
 
+
+![Snake animation](https://github.com/WelissonLuca/WelissonLuca/blob/output/github-contribution-grid-snake.svg)
+
