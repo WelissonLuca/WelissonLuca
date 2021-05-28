@@ -45,7 +45,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 6 | [WelissonLuca/afrodev-team3](https://github.com/WelissonLuca/afrodev-team3) | Repositório para o AfroDev - Time 3 |
-| 📦 | 2 | [WelissonLuca/BikeCraft](https://github.com/WelissonLuca/BikeCraft) | Projeto do curso Origamid Flexbox |
+| 📦 | 3 | [WelissonLuca/WelissonLuca](https://github.com/WelissonLuca/WelissonLuca) | Readme criado para meu perfil |
 
 ### :zap: Recent Activity
 
@@ -63,5 +63,5 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Friday, May 28th 2021, 1:50:54 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Friday, May 28th 2021, 4:16:51 am UTC</b>. </p>
 
