@@ -49,11 +49,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-api
+* 🎉 Merged PR #7 in WelissonLuca/ecommerce-api
+* ⬆️ Pushed 2 commits to WelissonLuca/ecommerce-api
+* 💪 Opened PR #7 in WelissonLuca/ecommerce-api
 * 💪 Opened PR #2 in WelissonLuca/Foodfy
-* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-api
-* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-api
-* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-api
-* ⬆️ Pushed 1 commit to WelissonLuca/VisitorControls-API
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -63,6 +63,6 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, June 2nd 2021, 5:49:49 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Wednesday, June 2nd 2021, 8:19:31 pm UTC</b>. </p>
 
 
