@@ -49,11 +49,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-adonisJS
+* ⬆️ Pushed 2 commits to WelissonLuca/ecommerce-adonisJS
+* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-adonisJS
+* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-adonisJS
 * ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-api
-* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-api
-* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-api
-* 🍴 Forked WelissonLuca/doom-fire-algorithm from filipedeschamps/doom-fire-algorithm
-* ❗️ Closed issue #6 in WelissonLuca/ecommerce-api
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -63,6 +63,6 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Friday, June 4th 2021, 12:04:40 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Friday, June 4th 2021, 2:17:45 pm UTC</b>. </p>
 
 
