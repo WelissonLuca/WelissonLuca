@@ -1,7 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
+<div align="center">[![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00) </div>
+
 
 <img src="https://imgseed.xyz/img/16212290195d1cd9e.gif"> 
 
@@ -43,10 +44,8 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WelissonLuca&hide_border=true&theme=nightowl&show_icons=true"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
-<div>
+</div>
  
- <br><br>
- ![Snake animation](https://github.com/WelissonLuca/WelissonLuca/blob/output/github-contribution-grid-snake.svg)
   <br><br>
 ### 🗄 My projects:
 
