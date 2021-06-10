@@ -39,6 +39,15 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&show_icons=true&theme=gotham&layout=compact">
 </a>
 
+ <div>
+ <a href="https://github.com/WelissonLuca"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WelissonLuca&hide_border=true&theme=nightowl&show_icons=true"/>
+<div>
+ 
+ <br><br>
+ ![Snake animation](https://github.com/WelissonLuca/WelissonLuca/blob/output/github-contribution-grid-snake.svg)
+  <br><br>
 ### 🗄 My projects:
 
 #### Top
