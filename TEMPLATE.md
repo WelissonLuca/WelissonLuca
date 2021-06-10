@@ -32,13 +32,12 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <br/>
 
 <br/>
-<a href="https://github.com/WelissonLuca">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&show_icons=true&theme=gotham&&count_private=true" alt="WelissonLuca" />
-</a>
-<a href="https://github.com/Welisson"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&show_icons=true&theme=gotham&layout=compact">
-</a>
 
+
+ <div align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+ </div>
+ 
  <div>
  <a href="https://github.com/WelissonLuca"></a>
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
@@ -66,5 +65,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
+ 
+ 
 
 
