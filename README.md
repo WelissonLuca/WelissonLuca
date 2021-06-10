@@ -49,11 +49,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 4 commits to WelissonLuca/ecommerce-api
 * 💪 Opened PR #6 in WelissonLuca/GAME_API
 * ⬆️ Pushed 5 commits to WelissonLuca/GAME_API
 * ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-adonisJS
 * ⬆️ Pushed 2 commits to WelissonLuca/ecommerce-adonisJS
-* ⬆️ Pushed 4 commits to WelissonLuca/ecommerce-adonisJS
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -63,6 +63,6 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Thursday, June 10th 2021, 2:12:55 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Thursday, June 10th 2021, 3:11:22 pm UTC</b>. </p>
 
 
