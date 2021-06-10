@@ -32,13 +32,12 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 <br/>
 
 <br/>
-<a href="https://github.com/WelissonLuca">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&show_icons=true&theme=gotham&&count_private=true" alt="WelissonLuca" />
-</a>
-<a href="https://github.com/Welisson"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&show_icons=true&theme=gotham&layout=compact">
-</a>
 
+
+ <div align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+ </div>
+ 
  <div>
  <a href="https://github.com/WelissonLuca"></a>
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
@@ -59,10 +58,10 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 ### :zap: Recent Activity
 
 * ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
+* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 * ⬆️ Pushed 4 commits to WelissonLuca/ecommerce-api
 * 💪 Opened PR #6 in WelissonLuca/GAME_API
 * ⬆️ Pushed 5 commits to WelissonLuca/GAME_API
-* ⬆️ Pushed 1 commit to WelissonLuca/ecommerce-adonisJS
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -72,6 +71,8 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Thursday, June 10th 2021, 7:16:41 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Thursday, June 10th 2021, 7:18:02 pm UTC</b>. </p>
+ 
+ 
 
 
