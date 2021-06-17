@@ -65,11 +65,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 14 commits to jorge-lba/hack-ignite-backend
 * ⬆️ Pushed 11 commits to WelissonLuca/hack-ignite-backend
 * ⬆️ Pushed 1 commit to jorge-lba/hack-ignite-backend
 * 💪 Opened PR #1 in jorge-lba/hack-ignite-backend
 * ⬆️ Pushed 1 commit to jorge-lba/hack-ignite-backend
-* 🍴 Forked WelissonLuca/hack-ignite-backend from jorge-lba/hack-ignite-backend
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -79,7 +79,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Thursday, June 17th 2021, 8:09:56 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Thursday, June 17th 2021, 9:08:45 pm UTC</b>. </p>
  
  
 
