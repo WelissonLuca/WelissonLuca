@@ -7,7 +7,6 @@
 </div>
 
 
-<img src="https://imgseed.xyz/img/16212290195d1cd9e.gif"> 
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -65,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 * ⬆️ Pushed 72 commits to WelissonLuca/NLW-6-NodeJS
 * 🎉 Merged PR #1 in WelissonLuca/NLW-6-NodeJS
 * ⬆️ Pushed 3 commits to WelissonLuca/NLW-6-NodeJS
 * 💪 Opened PR #1 in WelissonLuca/NLW-6-NodeJS
-* ⬆️ Pushed 6 commits to WelissonLuca/NLW-6-NodeJS
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -79,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Saturday, June 26th 2021, 6:11:13 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Saturday, June 26th 2021, 6:54:24 pm UTC</b>. </p>
  
  
 
