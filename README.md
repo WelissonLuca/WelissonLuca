@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 1 commit to WelissonLuca/Node-Studies
+* ⬆️ Pushed 1 commit to WelissonLuca/Node-Studies
 * ⬆️ Pushed 1 commit to WelissonLuca/challenge-database-queries-igniteNodeJS
 * ⬆️ Pushed 1 commit to WelissonLuca/challenge-database-queries-igniteNodeJS
 * ⬆️ Pushed 2 commits to WelissonLuca/challenge-database-queries-igniteNodeJS
-* ⬆️ Pushed 1 commit to WelissonLuca/NLW-6-NodeJS
-* ⬆️ Pushed 1 commit to WelissonLuca/NLW-6-NodeJS
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, June 29th 2021, 4:14:39 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Tuesday, June 29th 2021, 5:17:44 pm UTC</b>. </p>
  
  
 
