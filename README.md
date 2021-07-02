@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 1 commit to WelissonLuca/school_api
+* ⬆️ Pushed 1 commit to WelissonLuca/school_api
 * ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
 * ⬆️ Pushed 1 commit to WelissonLuca/VueJS-Studies
 * ⬆️ Pushed 1 commit to WelissonLuca/VueJS-Studies
-* ⬆️ Pushed 1 commit to WelissonLuca/VueJS-Studies
-* ⬆️ Pushed 2 commits to WelissonLuca/VueJS-Studies
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 2nd 2021, 9:09:04 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Friday, July 2nd 2021, 10:12:38 pm UTC</b>. </p>
  
  
 
