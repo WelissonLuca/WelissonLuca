@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 2 commits to WelissonLuca/smart-ranking-api-NestJS
-* ⬆️ Pushed 1 commit to WelissonLuca/school_api
-* ⬆️ Pushed 1 commit to WelissonLuca/school_api
-* ⬆️ Pushed 1 commit to WelissonLuca/school_api
-* ⬆️ Pushed 2 commits to WelissonLuca/smart-ranking-api-NestJS
+* ⬆️ Pushed 1 commit to WelissonLuca/Ecoleta
+* 🎉 Merged PR #7 in WelissonLuca/Ecoleta
+* ⬆️ Pushed 1 commit to WelissonLuca/Ecoleta
+* 🎉 Merged PR #5 in WelissonLuca/Ecoleta
+* ⬆️ Pushed 9 commits to WelissonLuca/smart-ranking-api-NestJS
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Monday, July 5th 2021, 4:12:09 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Monday, July 5th 2021, 5:08:27 am UTC</b>. </p>
  
  
 
