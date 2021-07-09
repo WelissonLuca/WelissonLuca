@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 6 commits to Developers-XP37-Team-Projects/Lita-back-end-rest-api
-* ❗️ Opened issue #4 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
-* ❗️ Opened issue #3 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
-* ❗️ Opened issue #2 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
-* ❗️ Opened issue #1 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* ⬆️ Pushed 12 commits to Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* 🎉 Merged PR #7 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* 💪 Opened PR #7 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* ❗️ Closed issue #2 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* ⬆️ Pushed 12 commits to Developers-XP37-Team-Projects/Lita-back-end-rest-api
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 9th 2021, 3:11:45 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Friday, July 9th 2021, 4:12:35 am UTC</b>. </p>
  
  
 
