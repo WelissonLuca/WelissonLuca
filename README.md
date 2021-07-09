@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 1 commit to WelissonLuca/smart-ranking-api-NestJS
-* ⬆️ Pushed 1 commit to WelissonLuca/smart-ranking-api-NestJS
-* ⬆️ Pushed 2 commits to jorge-lba/hack-ignite-backend
-* 🎉 Merged PR #30 in jorge-lba/hack-ignite-backend
-* 💪 Opened PR #30 in jorge-lba/hack-ignite-backend
+* ⬆️ Pushed 6 commits to Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* ❗️ Opened issue #4 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* ❗️ Opened issue #3 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* ❗️ Opened issue #2 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
+* ❗️ Opened issue #1 in Developers-XP37-Team-Projects/Lita-back-end-rest-api
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 9th 2021, 2:23:32 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Friday, July 9th 2021, 3:11:45 am UTC</b>. </p>
  
  
 
