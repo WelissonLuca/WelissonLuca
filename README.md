@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 1 commit to WelissonLuca/Ecoleta
+* 🎉 Merged PR #9 in WelissonLuca/Ecoleta
+* ⬆️ Pushed 1 commit to WelissonLuca/Ecoleta
+* 🎉 Merged PR #8 in WelissonLuca/Ecoleta
 * ⬆️ Pushed 8 commits to LITA-CODERS/Lita-back-end-rest-api
-* 🎉 Merged PR #12 in LITA-CODERS/Lita-back-end-rest-api
-* ❗️ Closed issue #9 in LITA-CODERS/Lita-back-end-rest-api
-* 💪 Opened PR #12 in LITA-CODERS/Lita-back-end-rest-api
-* ⬆️ Pushed 7 commits to LITA-CODERS/Lita-back-end-rest-api
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Saturday, July 10th 2021, 1:13:29 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Saturday, July 10th 2021, 2:08:17 pm UTC</b>. </p>
  
  
 
