@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 4 commits to UBB-ONG/api-ubb
-* ⬆️ Pushed 4 commits to UBB-ONG/api-ubb
-* ⬆️ Pushed 6 commits to UBB-ONG/api-ubb
-* ⬆️ Pushed 6 commits to UBB-ONG/api-ubb
+* ⬆️ Pushed 5 commits to UBB-ONG/api-ubb
 * ⬆️ Pushed 1 commit to UBB-ONG/api-ubb
+* 📦 Released "" in UBB-ONG/api-ubb
+* ⬆️ Pushed 1 commit to UBB-ONG/api-ubb
+* 📦 Released "" in UBB-ONG/api-ubb
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Sunday, July 25th 2021, 12:14:36 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Sunday, July 25th 2021, 1:14:14 pm UTC</b>. </p>
  
  
 
