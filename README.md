@@ -64,11 +64,11 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 40 commits to WelissonLuca/eccomerce-api-rest
 * ⬆️ Pushed 7 commits to UBB-ONG/api-ubb
 * ⬆️ Pushed 3 commits to UBB-ONG/api-ubb
 * ⬆️ Pushed 5 commits to UBB-ONG/api-ubb
 * ⬆️ Pushed 1 commit to UBB-ONG/api-ubb
-* 📦 Released "" in UBB-ONG/api-ubb
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Sunday, July 25th 2021, 7:07:29 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Sunday, July 25th 2021, 8:09:28 pm UTC</b>. </p>
  
  
 
