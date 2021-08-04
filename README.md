@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, August 4th 2021, 4:15:36 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Wednesday, August 4th 2021, 5:20:15 pm UTC</b>. </p>
  
  
 
