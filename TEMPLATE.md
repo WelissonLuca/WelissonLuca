@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00) 
 </div>
 
-
+![Banner](https://i.imgur.com/wImyqM6.gif)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
