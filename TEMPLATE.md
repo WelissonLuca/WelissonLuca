@@ -14,7 +14,7 @@
 
 <br/>
 
-I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like challenges, I'm always looking to learn new things.
+I'm Welisson Luca, back-end developer jr, passionate about anime, I like challenges, I'm always looking to learn new things.
 <br/>
 
 
