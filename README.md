@@ -14,7 +14,7 @@
 
 <br/>
 
-I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like challenges, I'm always looking to learn new things.
+I'm Welisson Luca, back-end developer jr, passionate about anime, I like challenges, I'm always looking to learn new things.
 <br/>
 
 
@@ -65,7 +65,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 ### :zap: Recent Activity
 
 * ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
-* ⬆️ Pushed 1 commit to WelissonLuca/github-explorer
+* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 * ⬆️ Pushed 1 commit to WelissonLuca/github-explorer
 * ⬆️ Pushed 1 commit to WelissonLuca/github-explorer
 * ⬆️ Pushed 1 commit to WelissonLuca/github-explorer
@@ -78,7 +78,7 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, August 25th 2021, 8:10:18 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Wednesday, August 25th 2021, 9:08:54 pm UTC</b>. </p>
  
  
 
