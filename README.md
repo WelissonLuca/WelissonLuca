@@ -64,10 +64,10 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 1 commit to WelissonLuca/PetsLife-Backend
-* ⬆️ Pushed 1 commit to WelissonLuca/PetsLife-Backend
 * ⬆️ Pushed 1 commit to WelissonLuca/school_api
 * 🎉 Merged PR #22 in WelissonLuca/school_api
+* ⬆️ Pushed 1 commit to WelissonLuca/school_api
+* 🎉 Merged PR #21 in WelissonLuca/school_api
 * ⬆️ Pushed 1 commit to WelissonLuca/school_api
 
 <details>
@@ -78,7 +78,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 12th 2021, 12:36:13 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Sunday, September 12th 2021, 1:55:23 am UTC</b>. </p>
  
  
 
