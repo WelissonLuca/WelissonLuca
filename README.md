@@ -78,7 +78,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, September 14th 2021, 12:16:49 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Tuesday, September 14th 2021, 1:17:17 pm UTC</b>. </p>
  
  
 
