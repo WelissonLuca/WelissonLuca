@@ -64,11 +64,11 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 9 commits to WelissonLuca/Rentalx
 * ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
 * ⬆️ Pushed 1 commit to WelissonLuca/Rentalx
 * ⬆️ Pushed 9 commits to WelissonLuca/Rentalx
 * ⬆️ Pushed 4 commits to WelissonLuca/Rentalx
-* ⬆️ Pushed 1 commit to WelissonLuca/school_api
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
@@ -78,7 +78,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 26th 2021, 3:10:13 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Sunday, September 26th 2021, 4:12:43 am UTC</b>. </p>
  
  
 
