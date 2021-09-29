@@ -19,7 +19,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I am currently learning and improving Node, Typescript, React, TDD, SOLID.!
+- 🔭 I am currently learning and improving Node, Typescript, Nest JS, TDD, SOLID, AWS.!
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 I am available for work in the home office mode!
 - 📫 How to reach me: welissonluca17@gmail.com
