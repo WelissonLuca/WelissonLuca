@@ -59,8 +59,8 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 8452 | [github/copilot-preview](https://github.com/github/copilot-preview) | Documentation for GitHub Copilot |
 | 📦 | 7 | [WelissonLuca/afrodev-team3](https://github.com/WelissonLuca/afrodev-team3) | Repositório para o AfroDev - Time 3 |
+| 📦 | 6 | [WelissonLuca/WelissonLuca](https://github.com/WelissonLuca/WelissonLuca) | Readme criado para meu perfil |
 
 ### :zap: Recent Activity
 
@@ -78,7 +78,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Saturday, October 23rd 2021, 3:10:06 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Saturday, October 23rd 2021, 4:14:29 pm UTC</b>. </p>
  
  
 
