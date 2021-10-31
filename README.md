@@ -60,7 +60,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 7 | [WelissonLuca/afrodev-team3](https://github.com/WelissonLuca/afrodev-team3) | Repositório para o AfroDev - Time 3 |
-| 📦 | 6 | [WelissonLuca/WelissonLuca](https://github.com/WelissonLuca/WelissonLuca) | Readme criado para meu perfil |
+| 📦 | 7 | [WelissonLuca/WelissonLuca](https://github.com/WelissonLuca/WelissonLuca) | Readme criado para meu perfil |
 
 ### :zap: Recent Activity
 
@@ -78,7 +78,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Sunday, October 31st 2021, 5:09:10 am UTC</b>. </p>
+<p align="center">Last refresh: <b>Sunday, October 31st 2021, 6:12:21 am UTC</b>. </p>
  
  
 
