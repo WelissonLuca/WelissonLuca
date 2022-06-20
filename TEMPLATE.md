@@ -1,9 +1,10 @@
 <div align="center">
- 
- [![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00) 
+![GitHub followers](https://img.shields.io/github/followers/WelissonLuca?style=social)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00) [![Years Badge](https://badges.pufler.dev/years/welissonLuca)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/welissonLuca)](https://badges.pufler.dev)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Welisson%20Luca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welissonLuca/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-welissonluca17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
+
 </div>
 
 ![Banner](https://i.imgur.com/wImyqM6.gif)
@@ -19,7 +20,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
 - 🔭 I’m currently working on [Gama Academy](https://www.gama.academy/)
-- 👨‍💻 I am currently learning and improving Node, Typescript, Nest JS, TDD, SOLID, AWS.!
+- 👨‍💻 I am currently learning and improving Node, Typescript, Nest JS, TDD, Clean Architeture, SOLID, AWS.!
 - 🤔 I'm looking for helping with solving coding issues!
 - 📫 How to reach me: welissonluca17@gmail.com
 - 📝 See my resume by <a  target="blank" href="https://www.canva.com/design/DAEekzRUSOE/9HxYjMwhjXlyLCVIeuEoPg/view?utm_content=DAEekzRUSOE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
@@ -27,11 +28,10 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 <br/>
 
 <div align="center"> 
+
+ ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
  
- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-Javascript&&NodeJs&&TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Interest-React&&Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-Javascript&&NodeJs&&TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Interest-Microservices/VueJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
  
 </div>
 
