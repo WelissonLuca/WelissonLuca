@@ -19,7 +19,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 <br/>
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I’m currently working on [Gama Academy](https://www.gama.academy/)
+- 🔭 I'm looking for new opportunities
 - 👨‍💻 I am currently learning and improving Node, Typescript, Nest JS, TDD, Clean Architeture, SOLID, AWS.!
 - 🤔 I'm looking for helping with solving coding issues!
 - 📫 How to reach me: welissonluca17@gmail.com
@@ -63,6 +63,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 1 commit to WelissonLuca/WelissonLuca
 * 🍴 Forked WelissonLuca/wsl2-docker-quickstart from codeedu/wsl2-docker-quickstart
 
 <details>
@@ -73,7 +74,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 </details>
 
 ------------
-<p align="center">Last refresh: <b>Thursday, October 27th 2022, 12:30:16 pm UTC</b>. </p>
+<p align="center">Last refresh: <b>Thursday, October 27th 2022, 1:41:43 pm UTC</b>. </p>
  
  
 
