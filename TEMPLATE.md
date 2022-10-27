@@ -19,7 +19,7 @@ I'm Welisson Luca, back-end developer jr, passionate about anime, I like challen
 <br/>
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I’m currently working on [Gama Academy](https://www.gama.academy/)
+- 🔭 I'm looking for new opportunities
 - 👨‍💻 I am currently learning and improving Node, Typescript, Nest JS, TDD, Clean Architeture, SOLID, AWS.!
 - 🤔 I'm looking for helping with solving coding issues!
 - 📫 How to reach me: welissonluca17@gmail.com
